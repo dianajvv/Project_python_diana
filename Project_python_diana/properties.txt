@@ -1,0 +1,1 @@
+001,Apartment,150000.0,available
